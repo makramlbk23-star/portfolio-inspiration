@@ -1,0 +1,174 @@
+Perfect. I'll act like I'm interviewing you. Answer each question with as much detail as you can (even rough notes are fine), and I'll turn your answers into polished portfolio content later.
+
+## 1. Hero Section
+
+1. What name do you want to display?
+2. What professional title best describes you? (e.g., Frontend Developer, Full-Stack Web Developer)
+3. What kind of clients do you want to attract?
+4. What is the biggest benefit clients get from working with you?
+5. Do you have a short personal slogan or motto?
+
+---
+
+## 2. About You
+
+6. Tell me about yourself.
+7. When did you start programming?
+8. Why did you become a web developer?
+9. What do you enjoy building the most?
+10. What makes you different from other developers?
+11. What values do you bring to projects? (etc.)
+12. Are you currently freelancing, employed, studying, or all of these?
+
+---
+
+## 3. Skills
+
+13. Which frontend technologies do you know?
+14. Which backend technologies do you know?
+15. Which databases have you worked with?
+16. Which CSS frameworks do you use?
+17. Which UI libraries do you know?
+18. Which programming languages do you use?
+19. Which tools do you use daily? (Git, Docker, VS Code, Figma, etc.)
+20. Which cloud or deployment platforms have you used?
+
+---
+
+## 4. Services
+
+21. What services do you want to sell?
+22. What type of websites do you enjoy creating?
+23. Do you build custom web applications?
+24. Do you create APIs?
+25. Do you redesign websites?
+26. Do you fix bugs?
+27. Do you optimize website performance?
+28. Do you offer maintenance after launch?
+
+---
+
+## 5. Projects
+
+For each project, answer:
+
+
+
+(Repeat for every project.)
+
+---
+
+## 6. Case Studies
+
+Choose your best project.
+
+37. What problem did it solve?
+38. How did you approach the project?
+39. What architecture did you choose?
+40. Which technologies were critical?
+41. What were the measurable results?
+42. What did you learn?
+
+---
+
+## 7. Experience
+
+43. Have you worked with clients?
+44. Have you worked in a company?
+45. Have you worked in teams?
+46. Have you contributed to open source?
+47. Approximately how many websites have you built?
+48. Approximately how many web applications have you built?
+
+---
+
+## 8. Testimonials
+
+49. Do you have client reviews?
+50. If not, who could provide one? (client, colleague, mentor, teacher)
+
+---
+
+## 9. Process
+
+51. How do you normally work with clients?
+52. How do you gather requirements?
+53. How do you communicate during projects?
+54. How often do you provide updates?
+55. What happens after delivery?
+
+---
+
+## 10. Statistics
+
+56. Years of experience?
+57. Number of completed projects?
+58. Number of happy clients?
+59. Number of GitHub repositories?
+60. Number of technologies you're comfortable with?
+
+---
+
+## 11. Education
+
+61. What is your educational background?
+62. Are you self-taught?
+63. Have you taken online courses?
+64. Which certifications do you have?
+
+---
+
+## 12. Goals
+
+65. What kind of work are you looking for?
+66. Remote only or local too?
+67. Full-time, freelance, or contract?
+68. Which industries interest you?
+
+---
+
+## 13. Personal Brand
+
+69. Three words that describe you.
+70. What are your strengths?
+71. What are you currently learning?
+72. What excites you about web development?
+
+---
+
+## 14. Contact
+
+73. Which email should clients use?
+74. GitHub profile?
+75. LinkedIn profile?
+76. Portfolio domain (if you have one)?
+77. Country and city?
+78. Time zone?
+
+---
+
+## 15. Fun Section (Optional)
+
+79. Favorite programming language?
+80. Favorite framework?
+81. Favorite project you've built?
+82. Favorite development tool?
+83. Coffee or tea?
+84. Hobbies outside coding?
+
+---
+
+## 16. Call to Action
+
+85. If a client reaches the end of your portfolio, what do you want them to do?
+
+Examples:
+
+* Book a call
+* Send a message
+* Request a quote
+* Hire you
+* View your GitHub
+
+Once you answer these questions, I'll transform your responses into professional portfolio copy for every section, written in a style that appeals to freelance clients.
+

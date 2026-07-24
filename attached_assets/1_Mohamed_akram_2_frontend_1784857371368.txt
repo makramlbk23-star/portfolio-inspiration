@@ -1,0 +1,32 @@
+1 ; Mohamed akram
+2 ; frontend developer - full stack developer
+3 ; business owners and who own a market store ( e-commerce ) 
+3 ; i offer to my clients i clean design and animate website for  ui & ux also i build form of registration to your clients and make a statistics of your business like clients votes about your Products or else ,,, 
+5 ; no 
+6 ; hi i'm akram a person obbssed and talented about software engineering , i'm 20 years old , economic & finance student bachlor in essg ( annaba, algeria ) 
+7 ; i started programing in 2023/05/27 after i see that the wold is be needing to a programmer that can create a good website with a less price to client 
+8 ; i became a developer in web because enterprices and business owners be needing a websites more than applications 
+11 ; i make a website smooth and eazy to read also attract the eyes , also i offer a secure web with clean code from errors and of course with a greate design 
+12 ; im a freelanceer in upwork , fiveer and student at essg 
+13 ; i use css and react.js as a frameword and javaScript 
+14 ; i use python , javascript and docker node.js & json 
+15 ; i use Non-Relational Databases (NoSQL) like firbase and mongoDB 
+16 ; css framwork i use tailwind 
+19 ; git and github to syn projects changes vs code as a workspaces , also figma to get inspired design 
+20 ; nameCheap , versel and netlify  
+21 ; building a websites or application can that can help business owners to grow with a big and smart backend 
+22 ; 
+23 ; yes 
+24 ; yes 
+25 ; yes 
+26 ; yes 
+27 ; yes day by day and focusing to create a smooth and with less code to load it directly 
+28 ; yes 
+47 ; yes 
+45 ; yes i have worked with team in hackathon in badji mokhtar annaba university 
+44 ; no 
+46 ; 
+47 ; more than 15 website 
+48 ; 
+49 ; 
+56
