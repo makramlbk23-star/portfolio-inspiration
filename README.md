@@ -1,2 +1,2 @@
 # portfolio-inspiration
-a simple example of a web developer 
+a simple example of portfolio of a web developer 
